@@ -10,3 +10,4 @@ buildNumber.properties
 *.prefs
 *.classpath
 *.project
+data/pp/*
